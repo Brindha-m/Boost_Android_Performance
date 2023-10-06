@@ -23,6 +23,9 @@
 
 - Provide insides on ` Battery Consumption ` , ` Network Consumption `, ` CPU/ RAM consumption `
 
+ <img width="713" alt="image" src="https://github.com/Brindha-m/Boost_Android_Performance/assets/72887609/fa486112-f399-4896-bf61-f5248acd0528">
+
+
 
 ## 3. Caching Data
 

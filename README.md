@@ -38,7 +38,7 @@
 
 > ## How to Control..?
 
-  ## Make use of an App called LEAK CANARY
+- Make use of an App called `LEAK CANARY`
   
   ```
   dependencies {
